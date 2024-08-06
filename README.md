@@ -10,4 +10,6 @@ In this project, I will be incorporating the following topics I learned from the
 - Color palettes
 - GitHub
 
-Reflections and Realizations (PENDING***)
+Reflections and Realizations
+
+Nothing much really. I experienced zero to minimal problems solving the project without any stuck-ups. What I realized though is that I need to learn media queries or responsiveness of the website.
