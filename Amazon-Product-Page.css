@@ -6,6 +6,7 @@ body {
 
 .title {
     font-weight: lighter;
+    margin-bottom: 10px;
 }
 
 .main-section {
@@ -33,4 +34,14 @@ body {
 
 #siege-text {
     font-weight: bold;
+}
+
+#source {
+    margin: 0;
+    padding: 0;
+}
+
+#stars {
+    width: 100px;
+    margin-top: 10px;
 }
