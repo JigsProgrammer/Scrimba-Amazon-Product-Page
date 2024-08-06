@@ -9,3 +9,5 @@ In this project, I will be incorporating the following topics I learned from the
 - Web-safe fonts
 - Color palettes
 - GitHub
+
+Reflections and Realizations (PENDING***)
